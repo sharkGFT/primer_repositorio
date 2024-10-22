@@ -1,0 +1,9 @@
+primer documento para el proyecto
+1.comandos principales de GIT
+git init 
+git status
+git commit
+clear
+git add .
+2. configuracion de usuario y correo
+git config
